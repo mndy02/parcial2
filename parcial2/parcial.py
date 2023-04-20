@@ -11,12 +11,12 @@ while True:
             raise ValueError
             break
         except ValueError
-        print("Por favor ingrese un número positivo válido: ")
+        print("Por favor ingrese un número positivo válido: ") 
 
-        suma = 0
-        for i in range (1, num + 1):
+suma = 0
+ for i in range (1, num + 1):
             suma += 1/
 
-    print("El resultado de la suma de la serie es: ", suma)
+ print("El resultado de la suma de la serie es: ", suma)
 
 print("\nFIN DEL PROGRAMA")
